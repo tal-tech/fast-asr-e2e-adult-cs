@@ -1,0 +1,6 @@
+alg/resource/encoder.onnx
+alg/resource/decoder.onnx
+res/encoder.onnx
+res/decoder.onnx
+res/ADU-GEN-0-GEN/encoder.onnx
+res/ADU-GEN-0-GEN/decoder.onnx

@@ -1,0 +1,16 @@
+{
+    "version": "tal_asr_paraformer.v1.0.0",
+    "encoder_model_path": "encoder.onnx",
+    "predictor_model_path": "cif.onnx",
+    "decoder_model_path": "decoder.onnx",
+    "add_shift_path": "add_shift.npy",
+    "rescale_path": "rescale.npy",
+    "dict_path": "dict.txt",
+    "m": 7,
+    "n": 6,
+    "num_bins": 80,
+    "sample_rate": 16000,
+    "frame_length": 25,
+    "frame_shift": 10,
+    "batch_size": 1
+}
